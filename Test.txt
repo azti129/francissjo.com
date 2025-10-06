@@ -2,4 +2,6 @@
 
 This is a testing file for Git Bash.
 
+I modified here after "committing" the files.
+
 - Francis Jo "Azti"
